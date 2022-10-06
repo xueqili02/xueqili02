@@ -12,8 +12,6 @@
   - **Spring Boot**
   - **VDR/PDR**
 - Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02)]()
 
