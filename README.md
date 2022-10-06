@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Li Xueqi
 - 👀 I’m interested in CS
+- 💻 I code with: ![](https://img.shields.io/badge/IDE-IDEA-blue)  ![](https://img.shields.io/badge/IDE-PyCharm-blue)  ![](https://img.shields.io/badge/IDE-CLion-blue)
 - 🌱 I’m currently learning 
   - **Machine Learning**
   - **Operating System**
