@@ -2,8 +2,10 @@
 - 👀 I’m interested in CS
 - 💻 Dev Tools: 
   - ![](https://img.shields.io/badge/IDE-IDEA-blue)  ![](https://img.shields.io/badge/IDE-PyCharm-blue)  ![](https://img.shields.io/badge/IDE-CLion-blue) 
-  - ![](https://img.shields.io/badge/Dev-VSCode-lightgreen) ![](https://img.shields.io/badge/Dev-Postman-lightgreen) 
-  - ![](https://img.shields.io/badge/DB-MySQL-lightgreen) 
+  - ![](https://img.shields.io/badge/Dev-VSCode-lightgreen) ![](https://img.shields.io/badge/Dev-Git-lightgreen)  ![](https://img.shields.io/badge/Dev-Postman-lightgreen) 
+  - ![](https://img.shields.io/badge/Language-C-green) 
+  - ![](https://img.shields.io/badge/DB-MySQL-yellow) 
+  - 
 - 🌱 I’m currently learning 
   - **Machine Learning**
   - **Operating System**
