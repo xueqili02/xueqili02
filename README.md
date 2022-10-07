@@ -23,7 +23,7 @@
   | Course | Content |
   | :-----------: | :-----------: |
   | CS50 | Introduction to CS |
-  | CMU15445 | Intro to Database Systems |
+  | CMU 15-445 | Intro to Database Systems |
 
 - Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono)
 
