@@ -11,6 +11,11 @@
   - **Operating System**
   - **Spring Boot**
   - **VDR/PDR**
+- Open Source Courses
+  learning:
+  - CS229 MIT 6.S081
+  learned:
+  - CS50 
 - Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02)]()
