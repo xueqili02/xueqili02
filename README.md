@@ -12,10 +12,19 @@
   - **Spring Boot**
   - **VDR/PDR**
 - Open Source Courses
-  learning:
-  - CS229 MIT 6.S081
-  learned:
-  - CS50 
+
+  **learning**
+  | Course | Content |
+  | :-----------: | :-----------: |
+  | CS229 | Machine Learning  |
+  | MIT 6.S081 | Operating System |
+
+  **learned**
+  | Course | Content |
+  | :-----------: | :-----------: |
+  | CS50 | Introduction to CS |
+  | CMU15445 | Intro to Database Systems |
+
 - Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02)]()
