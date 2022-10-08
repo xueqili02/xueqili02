@@ -3,7 +3,7 @@
 - 💻 Dev Tools: 
   - ![](https://img.shields.io/badge/IDE-IDEA-blue)  ![](https://img.shields.io/badge/IDE-PyCharm-blue)  ![](https://img.shields.io/badge/IDE-CLion-blue) 
   - ![](https://img.shields.io/badge/Dev-VS%20Code-lightgreen) ![](https://img.shields.io/badge/Dev-Git-lightgreen)  ![](https://img.shields.io/badge/Dev-Postman-lightgreen) 
-  - ![](https://img.shields.io/badge/Language-C++-green)  ![](https://img.shields.io/badge/Language-Java-green)  ![](https://img.shields.io/badge/Language-Python-green)  ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![](https://img.shields.io/badge/-C%2B%2B-333333?style=social&logo=c%2B%2B)
+  - ![](https://img.shields.io/badge/Language-Java-green)  ![](https://img.shields.io/badge/Language-Python-green)  ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   - ![](https://img.shields.io/badge/Framework-Django-red)  ![](https://img.shields.io/badge/Framework-Spring%20Boot-red)
   - ![](https://img.shields.io/badge/DB-MySQL-yellow) 
 - 🌱 I’m currently learning 
