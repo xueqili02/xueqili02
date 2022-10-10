@@ -6,6 +6,7 @@
   - ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   - ![](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  ![](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
   - ![](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  - ![](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 - 🌱 I’m currently learning 
   - **Machine Learning**
   - **Operating System**
