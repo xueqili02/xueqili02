@@ -28,7 +28,7 @@
 
 - Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono)
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02&count_private=true)]()
 
 <!---
 xueqili02/xueqili02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
