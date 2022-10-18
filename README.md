@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Li Xueqi
 - 👀 I’m interested in CS
-- Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono)
+- 👀 Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono)
 - 💻 Dev Tools: 
   - ![](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion) ![](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm) ![](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellijidea)
   - ![](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=vscode) ![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
