@@ -4,7 +4,7 @@
 - 💻 Dev Tools: 
   - ![](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion) ![](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm) ![](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellijidea)
   - ![](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=vscode) ![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  - ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  - ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
   - ![](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  ![](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
   - ![](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   - ![](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
