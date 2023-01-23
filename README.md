@@ -9,10 +9,9 @@
   - ![](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   - ![](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 - 🌱 I’m currently learning 
-  - **Machine Learning**
-  - **Operating System**
-  - **Spring Boot**
+  - **Latex**
   - **VDR/PDR**
+<!-- 
 - Open Source Courses
 
   **learning**
@@ -25,7 +24,7 @@
   | Course | Content |
   | :-----------: | :-----------: |
   | CS50 | Introduction to CS |
-  | CMU 15-445 | Intro to Database Systems |
+  | CMU 15-445 | Intro to Database Systems | -->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02&count_private=true&theme=algolia&show_icons=true)]()
 
