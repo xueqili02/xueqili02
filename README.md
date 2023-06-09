@@ -9,7 +9,7 @@
   - ![](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   - ![](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02&count_private=true&theme=algolia&show_icons=true)]()
+<!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xueqili02&count_private=true&theme=algolia&show_icons=true)]() -->
 
 <!---
 xueqili02/xueqili02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
