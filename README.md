@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Li Xueqi.
-- 👀 I’m interested in CS.
+- 👀 I’m interested in Computer Science and Software Engineering, specifically backend development, deep learning, and mobile computing.
 - 😊 Welcome to visit my website [Xueqi Li's Website](https://xueqili02.github.io).
-- ✌ Welcome to try my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono).
+- ✌ Welcome to use my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono) to improve productivity.
 - 💻 Dev skills & tools used: 
   - ![](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellijidea) ![](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=vscode) ![](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion) ![](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
   - ![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex) ![](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch) ![](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana)
