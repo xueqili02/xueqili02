@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xueqi Li.
-- 👀 I’m interested in Computer Science and Software Engineering, specifically backend development, deep learning, and mobile computing.
-- 😊 Welcome to visit [my website](https://xueqili02.github.io).
+- 👀 I’m interested in Computer Science (backend and machine learning).
+<!-- - 😊 Welcome to visit [my website](https://xueqili02.github.io).-->
 - ✌ Welcome to use my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono) to improve productivity.
 - 💻 Dev skills:
   - Programming Languages: ![](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL) ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
