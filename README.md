@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xueqi Li.
-- 👀 I’m interested in Computer Science (backend and machine learning).
+- 👀 I’m interested in Computer Science (database systems and backend development).
 <!-- - 😊 Welcome to visit [my website](https://xueqili02.github.io).-->
 - ✌ Welcome to use my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono) to improve productivity. (I know a lot of people would open lots of tabs in their browsers. You should try this!)
 - 💻 Dev skills:
