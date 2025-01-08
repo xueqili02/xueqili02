@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xueqi Li.
 - 👀 I’m interested in Computer Science (backend and machine learning).
 <!-- - 😊 Welcome to visit [my website](https://xueqili02.github.io).-->
-- ✌ Welcome to use my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono) to improve productivity.
+- ✌ Welcome to use my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono) to improve productivity. (I know a lot of people would open lots of tabs in their browsers. You should try this!)
 - 💻 Dev skills:
   - Programming Languages: ![](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL) ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   - Softwares & Tools: ![](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch) ![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)  ![](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex) ![](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana)
