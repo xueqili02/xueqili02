@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Xueqi Li.
-- 👀 I’m interested in Computer Science (database systems and backend development).
-<!-- - 😊 Welcome to visit [my website](https://xueqili02.github.io).-->
+- 👀 I’m interested in Computer Science (database systems and backend development).<!-- - 😊 Welcome to visit [my website](https://xueqili02.github.io).-->
 - ✌ Welcome to use my **Edge extention** [SearchingTAB](https://microsoftedge.microsoft.com/addons/detail/searchingtab/hhfjkhkaehbignlgnngiigjdjejagono) to improve productivity. (I know a lot of people would open lots of tabs in their browsers. You should try this!)
 - 😍 Interested in cats? Welcome to take a look at our **WeChat miniprogram 红果喵谱**. You can search in WeChat with the name or copy-paste this link into WeChat and open it: #小程序://红果喵谱/EMZhxAWVLI0xsxv
 - 💻 Dev skills:
